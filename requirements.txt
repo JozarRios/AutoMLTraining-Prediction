@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+h2o
+pandas
+shap
+streamlit
